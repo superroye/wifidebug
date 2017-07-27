@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\93da3e35a0fc12661950968659839f8d1acc5fde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9e128a817e16f2ee85ac15ef709b7a5c16f5c89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_69e89180a4d865ebff11250d4742ea295cbaecc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\android\wifiDebug\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e88f9189e5fa23509b621e9d5722214d9edeb0d1">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bffea7ab83757bc69f0ab345c5da5487eb05c535\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\a72289a793f1676a754cf3740007f8044fba114b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6954c1e32b052e31210047537737d87477894f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d0b6bf0c9c0627f760aa5685ec277516dcb7f981\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74b612d973089fd6ec9a30cbc779948a565f401d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_77bbafad21bc1ac169e6a221a15373f3eab9dd96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ddf59883da653eee17b58a9da61ab9b4322310d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7945838909b8d3f9ad9446181b2b2f202e74b2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\c92d65904ad98e931447f166c11950aada815f88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9b24d837824a65ea5dd717e4d08131381172485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\dea84d029a5efa1381b98a8d0a9e7cad50fa9f63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34edd0fa8a53711bba45f9b9fe4a8e001d551773\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\android\wifiDebug\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_08190879b46ea5d302c0dd156fd2b8f8640ed8bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\9bcd5b8959fe0bd70f5700ea53526934acbbf39d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18b01904e762d8253e9535bdb1a00eae84bf7ad1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8ec4e952d64a2f1b673dfe3a098e297445e9e6b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b81cf9bc7911fa21c66e58694d7954cbfde811f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4a19054f0ceda24b3dd062e3bfa4bed0e8d955c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_669c19a6205649e11e75e2d27df857c4dcc08a6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\26f098a7a5c4abae14a9ac6e0d5d1543935d43f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\work\android\wifiDebug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2709154571684566c0d2e4e9bf5d47819bf9ea0e\classes.dex" />
+    </item>
+
+</items>
